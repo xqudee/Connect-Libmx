@@ -27,4 +27,4 @@ reinstall: uninstall all
 
 .PHONY: all uninstall clean reinstall
 
-s
+
